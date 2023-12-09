@@ -7,7 +7,7 @@ Logic app will return an HTTP 202 Accepted with a status URL to poll for run sta
 
 After 5 minute delay the status URL will return 202 OK with a response body.
 
-### Deploy the HTTP Asyn Demo Logic App 
+### Deploy the HTTP Async Demo Logic App 
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fanthonyblake%2FAZ-lac-AsyncDemo%2Fmain%2Ftemplate.json)
 
 ### Postman collection to Test
